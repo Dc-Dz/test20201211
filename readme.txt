@@ -13,3 +13,4 @@ ch12-interceptor-permission: 使用拦截器检查登录的用户是不是能访
 9.创建springmvc配置文件
   声明组件扫描器
   声明拦截器
+  大萨达卡萨里的撒肯定撒
