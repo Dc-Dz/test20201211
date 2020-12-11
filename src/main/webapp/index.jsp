@@ -10,7 +10,7 @@
     <base href="<%=basePath%>" />
 </head>
 <body>
-
+<h1></h1>
     <p>一个拦截器</p>
     <form action="some.do" method="post">
         姓名：<input type="text" name="name"> <br/>
